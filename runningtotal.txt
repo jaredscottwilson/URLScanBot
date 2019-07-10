@@ -1,0 +1,3 @@
+('lucy_server', u'bookling.twcstatetx.us', u'http://bookling.twcstatetx.us/static-landing/5b463faa2732e3887591de7f7bfa67f4862cbdbb1193150aa41dea27ee37ac17/11/cancel.doc?track')
+('microsoft_logo', u'wwwhaccountmailnotify.z13.web.core.windows.net', u'https://wwwhaccountmailnotify.z13.web.core.windows.net/')
+('azure_phish', u'wr1fymxofqydxf7.z5.web.core.windows.net', u'https://wr1fymxofqydxf7.z5.web.core.windows.net/?username=howard@schultzfamilyfoundation.org')

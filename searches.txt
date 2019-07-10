@@ -1,0 +1,3 @@
+lucy_server, page.server%3A"Lucy"
+microsoft_logo, filename%3A"microsoft_logo.svg"
+azure_phish, page.server%3A"Windows-Azure-Web*"%20AND%20domain%3Awindows.net
