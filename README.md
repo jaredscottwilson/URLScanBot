@@ -10,11 +10,11 @@ pip install defang
 
 pip install requests
 
-
+############
 
 runningtotal.txt in the same directory as the script
 
-
+############
 
 searches.txt in the same directory as the script with the URLScan searches you'd like to perform in the following format:
 
@@ -27,7 +27,7 @@ Example:
 
 lucy_server, page.server%3A"Lucy"
 
-
+############
 
 keys.py with your Slack Slacker ID, working directory path, and slack channel name
 
