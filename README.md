@@ -2,6 +2,9 @@
 A Slackbot to perform periodic URLScan queries and kick the results back to a Slack channel
 
 
+Shout out to @DC423 for the introduction to the use of Slacker and for portions of the Slack integration code. 
+
+
 ####Requirements####
 
 pip install slacker
